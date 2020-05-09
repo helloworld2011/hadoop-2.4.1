@@ -1,0 +1,927 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ed025553-bead-4384-bda3-59f14600fdfc" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-applications/hadoop-yarn-applications-distributedshell/target/" />
+    <ignored path="$PROJECT_DIR$/hadoop-tools/hadoop-datajoin/target/" />
+    <ignored path="$PROJECT_DIR$/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-tests/target/" />
+    <ignored path="$PROJECT_DIR$/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/target/" />
+    <ignored path="$PROJECT_DIR$/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/" />
+    <ignored path="$PROJECT_DIR$/hadoop-hdfs-project/hadoop-hdfs/src/contrib/bkjournal/target/" />
+    <ignored path="$PROJECT_DIR$/hadoop-tools/hadoop-extras/target/" />
+    <ignored path="$PROJECT_DIR$/hadoop-common-project/hadoop-auth/target/" />
+    <ignored path="$PROJECT_DIR$/hadoop-yarn-project/hadoop-yarn/target/" />
+    <ignored path="$PROJECT_DIR$/hadoop-project/target/" />
+    <ignored path="$PROJECT_DIR$/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-jobclient/target/" />
+    <ignored path="$PROJECT_DIR$/hadoop-project-dist/target/" />
+    <ignored path="$PROJECT_DIR$/hadoop-common-project/target/" />
+    <ignored path="$PROJECT_DIR$/hadoop-mapreduce-project/hadoop-mapreduce-examples/target/" />
+    <ignored path="$PROJECT_DIR$/hadoop-hdfs-project/hadoop-hdfs-nfs/target/" />
+    <ignored path="$PROJECT_DIR$/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-site/target/" />
+    <ignored path="$PROJECT_DIR$/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/" />
+    <ignored path="$PROJECT_DIR$/hadoop-hdfs-project/target/" />
+    <ignored path="$PROJECT_DIR$/hadoop-tools/hadoop-openstack/target/" />
+    <ignored path="$PROJECT_DIR$/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-shuffle/target/" />
+    <ignored path="$PROJECT_DIR$/hadoop-assemblies/target/" />
+    <ignored path="$PROJECT_DIR$/hadoop-tools/hadoop-sls/target/" />
+    <ignored path="$PROJECT_DIR$/hadoop-tools/hadoop-pipes/target/" />
+    <ignored path="$PROJECT_DIR$/hadoop-common-project/hadoop-auth-examples/target/" />
+    <ignored path="$PROJECT_DIR$/hadoop-client/target/" />
+    <ignored path="$PROJECT_DIR$/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/target/" />
+    <ignored path="$PROJECT_DIR$/hadoop-maven-plugins/target/" />
+    <ignored path="$PROJECT_DIR$/hadoop-tools/target/" />
+    <ignored path="$PROJECT_DIR$/hadoop-mapreduce-project/hadoop-mapreduce-client/target/" />
+    <ignored path="$PROJECT_DIR$/hadoop-tools/hadoop-distcp/target/" />
+    <ignored path="$PROJECT_DIR$/hadoop-common-project/hadoop-nfs/target/" />
+    <ignored path="$PROJECT_DIR$/hadoop-common-project/hadoop-minikdc/target/" />
+    <ignored path="$PROJECT_DIR$/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs-plugins/target/" />
+    <ignored path="$PROJECT_DIR$/hadoop-minicluster/target/" />
+    <ignored path="$PROJECT_DIR$/hadoop-common-project/hadoop-common/target/" />
+    <ignored path="$PROJECT_DIR$/hadoop-tools/hadoop-rumen/target/" />
+    <ignored path="$PROJECT_DIR$/hadoop-tools/hadoop-streaming/target/" />
+    <ignored path="$PROJECT_DIR$/hadoop-tools/hadoop-archives/target/" />
+    <ignored path="$PROJECT_DIR$/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/target/" />
+    <ignored path="$PROJECT_DIR$/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/" />
+    <ignored path="$PROJECT_DIR$/hadoop-dist/target/" />
+    <ignored path="$PROJECT_DIR$/hadoop-tools/hadoop-gridmix/target/" />
+    <ignored path="$PROJECT_DIR$/hadoop-hdfs-project/hadoop-hdfs/target/" />
+    <ignored path="$PROJECT_DIR$/hadoop-hdfs-project/hadoop-hdfs-httpfs/target/" />
+    <ignored path="$PROJECT_DIR$/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/target/" />
+    <ignored path="$PROJECT_DIR$/hadoop-yarn-project/target/" />
+    <ignored path="$PROJECT_DIR$/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/" />
+    <ignored path="$PROJECT_DIR$/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-applications/hadoop-yarn-applications-unmanaged-am-launcher/target/" />
+    <ignored path="$PROJECT_DIR$/hadoop-common-project/hadoop-annotations/target/" />
+    <ignored path="$PROJECT_DIR$/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-applications/target/" />
+    <ignored path="$PROJECT_DIR$/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/target/" />
+    <ignored path="$PROJECT_DIR$/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-web-proxy/target/" />
+    <ignored path="$PROJECT_DIR$/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/target/" />
+    <ignored path="$PROJECT_DIR$/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-api/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/hadoop-tools/hadoop-tools-dist/target/" />
+    <ignored path="$PROJECT_DIR$/hadoop-mapreduce-project/target/" />
+    <ignored path="$PROJECT_DIR$/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="hadoop-main" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs/FileSystem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="736">
+              <caret line="95" selection-start-line="95" selection-end-line="95" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/fs/TestGlobPaths.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/test/HdfsTestDriver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/TestFileCreation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1472">
+              <caret line="146" column="5" selection-start-line="146" selection-start-column="5" selection-end-line="146" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/fs/TestHDFSFileContextMainOperations.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="41" column="22" lean-forward="true" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/conf/Configured.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="211">
+              <caret line="38" column="3" lean-forward="true" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="3" />
+              <folding>
+                <element signature="e#1331#1332#0" expanded="true" />
+                <element signature="e#1354#1355#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/conf/Configuration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="106" column="2" lean-forward="true" selection-start-line="106" selection-start-column="2" selection-end-line="106" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/DFSConfigKeys.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="35" column="30" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/fs/TestFsShellReturnCode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9315">
+              <caret line="443" column="51" selection-start-line="443" selection-start-column="51" selection-end-line="443" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs/LocalFileSystem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="35" column="45" selection-start-line="35" selection-start-column="45" selection-end-line="35" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs/ChecksumFileSystem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="40" column="56" selection-start-line="40" selection-start-column="56" selection-end-line="40" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs/FilterFileSystem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="529">
+              <caret line="54" column="13" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/web/HftpFileSystem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="79" column="13" selection-start-line="79" selection-start-column="13" selection-end-line="79" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>block</find>
+      <find>length</find>
+      <find>BlockLocalPathInfo</find>
+      <find>snapshot</find>
+      <find>children</find>
+      <find>FileSystem</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/protocol/DatanodeID.java" />
+        <option value="$PROJECT_DIR$/hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/namenode/INode.java" />
+        <option value="$PROJECT_DIR$/hadoop-hdfs-project/hadoop-hdfs/src/main/java/Test.java" />
+        <option value="$PROJECT_DIR$/hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/namenode/INodeDirectory.java" />
+        <option value="$PROJECT_DIR$/hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/namenode/INodeFile.java" />
+        <option value="$PROJECT_DIR$/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs/FileSystem.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\6.Repository" />
+        <option name="mavenHome" value="D:/software/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="D:\6.Repository\settings-aliyun.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Apache Hadoop Auth" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Apache Hadoop HttpFS" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Apache Hadoop HttpFS" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1366" />
+    <option name="height" value="768" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hadoop-main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hadoop-2.4.1-src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hadoop-main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hadoop-2.4.1-src" type="462c0819:PsiDirectoryNode" />
+              <item name="hadoop-hdfs-project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hadoop-main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hadoop-2.4.1-src" type="462c0819:PsiDirectoryNode" />
+              <item name="hadoop-hdfs-project" type="462c0819:PsiDirectoryNode" />
+              <item name="hadoop-hdfs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hadoop-main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hadoop-2.4.1-src" type="462c0819:PsiDirectoryNode" />
+              <item name="hadoop-hdfs-project" type="462c0819:PsiDirectoryNode" />
+              <item name="hadoop-hdfs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hadoop-main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hadoop-2.4.1-src" type="462c0819:PsiDirectoryNode" />
+              <item name="hadoop-hdfs-project" type="462c0819:PsiDirectoryNode" />
+              <item name="hadoop-hdfs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hadoop-main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hadoop-2.4.1-src" type="462c0819:PsiDirectoryNode" />
+              <item name="hadoop-hdfs-project" type="462c0819:PsiDirectoryNode" />
+              <item name="hadoop-hdfs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hadoop-main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hadoop-2.4.1-src" type="462c0819:PsiDirectoryNode" />
+              <item name="hadoop-hdfs-project" type="462c0819:PsiDirectoryNode" />
+              <item name="hadoop-hdfs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hadoop-main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hadoop-2.4.1-src" type="462c0819:PsiDirectoryNode" />
+              <item name="hadoop-hdfs-project" type="462c0819:PsiDirectoryNode" />
+              <item name="hadoop-hdfs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="apache" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hadoop-main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="F:/Node/install/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed025553-bead-4384-bda3-59f14600fdfc" name="Default Changelist" comment="" />
+      <created>1587549395803</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587549395803</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.22222222" visible="true" weight="0.17145015" />
+      <window_info id="Structure" order="1" sideWeight="0.7777778" side_tool="true" weight="0.17145015" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Favorites" order="3" sideWeight="0.7744108" side_tool="true" weight="0.2968278" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32996634" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32930514" />
+      <window_info anchor="right" id="Word Book" order="4" side_tool="true" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.22727273" visible="true" weight="0.29229608" />
+      <window_info id="Structure" order="1" sideWeight="0.77272725" side_tool="true" weight="0.20468278" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32930514" />
+      <window_info anchor="right" id="Word Book" order="4" side_tool="true" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/hadoop-hdfs-project/hadoop-hdfs/src/ant/org/apache/hadoop/ant/condition/DfsBaseConditional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="52" column="3" lean-forward="true" selection-start-line="52" selection-start-column="3" selection-end-line="52" selection-end-column="3" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#1754#1755#0" expanded="true" />
+            <element signature="e#1780#1781#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hadoop-project/src/site/apt/index.apt.vm">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hadoop-project/src/site/resources/css/site.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="48" lean-forward="true" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hadoop-client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs/s3/Block.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="31" column="21" selection-start-line="31" selection-start-column="15" selection-end-line="31" selection-end-column="21" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/Writable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1012">
+          <caret line="65" column="17" selection-start-line="65" selection-start-column="17" selection-end-line="65" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/protocol/Block.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="108" lean-forward="true" selection-start-line="108" selection-end-line="108" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#3782#3783#0" expanded="true" />
+            <element signature="e#3806#3807#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hadoop-tools/hadoop-archives/src/main/java/org/apache/hadoop/tools/HadoopArchives.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="80" column="2" lean-forward="true" selection-start-line="80" selection-start-column="2" selection-end-line="80" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/protocol/LocatedBlocks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="132" column="14" selection-start-line="132" selection-start-column="14" selection-end-line="132" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2490#2491#0" expanded="true" />
+            <element signature="e#2541#2542#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/protocol/DatanodeID.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="225" column="11" selection-start-line="225" selection-start-column="11" selection-end-line="225" selection-end-column="11" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/protocol/LocatedBlock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="94" column="29" lean-forward="true" selection-start-line="94" selection-start-column="29" selection-end-line="94" selection-end-column="29" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/protocol/ClientProtocol.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/namenode/FSEditLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1426">
+          <caret line="157" column="33" selection-start-line="157" selection-start-column="33" selection-end-line="157" selection-end-column="33" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/org.apache.hadoop.hdfs.server.namenode.INodeFile">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>org.apache.hadoop.hdfs.server.namenode.INodeFile</OriginalElement>
+          <nodes>
+            <node x="347.3625" y="99.0">org.apache.hadoop.hdfs.server.namenode.INodeAttributes</node>
+            <node x="50.91249999999991" y="257.0">org.apache.hadoop.hdfs.server.namenode.INodeWithAdditionalFields</node>
+            <node x="230.74999999999994" y="178.0">org.apache.hadoop.util.LightWeightGSet.LinkedElement</node>
+            <node x="47.45416666666665" y="99.0">org.apache.hadoop.hdfs.util.Diff.Element</node>
+            <node x="532.3291666666667" y="336.0">org.apache.hadoop.hdfs.server.namenode.INodeFile</node>
+            <node x="565.625" y="99.0">org.apache.hadoop.hdfs.server.blockmanagement.BlockCollection</node>
+            <node x="0.0" y="0.0">java.lang.Comparable</node>
+            <node x="121.74999999999994" y="178.0">org.apache.hadoop.hdfs.server.namenode.INode</node>
+            <node x="411.74999999999994" y="178.0">org.apache.hadoop.hdfs.server.namenode.INodeFileAttributes</node>
+            <node x="443.37499999999994" y="0.0">org.apache.hadoop.classification.InterfaceAudience.Private</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="org.apache.hadoop.hdfs.server.namenode.INodeFileAttributes" target="org.apache.hadoop.hdfs.server.namenode.INodeAttributes">
+              <point x="-53.75" y="-14.5" />
+              <point x="465.49999999999994" y="153.0" />
+              <point x="481.6125" y="153.0" />
+              <point x="44.75" y="14.5" />
+            </edge>
+            <edge source="org.apache.hadoop.hdfs.server.namenode.INodeFile" target="org.apache.hadoop.hdfs.server.blockmanagement.BlockCollection">
+              <point x="15.625" y="-14.5" />
+              <point x="610.4541666666667" y="306.0" />
+              <point x="655.125" y="306.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.apache.hadoop.hdfs.server.namenode.INodeWithAdditionalFields" target="org.apache.hadoop.hdfs.server.namenode.INode">
+              <point x="0.0" y="-14.5" />
+              <point x="185.4124999999999" y="232.0" />
+              <point x="166.24999999999994" y="232.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.apache.hadoop.hdfs.server.namenode.INodeFile" target="org.apache.hadoop.classification.InterfaceAudience.Private">
+              <point x="46.875" y="-14.5" />
+              <point x="641.7041666666667" y="316.0" />
+              <point x="755.125" y="316.0" />
+              <point x="755.125" y="59.0" />
+              <point x="541.4583333333333" y="59.0" />
+              <point x="44.58333333333333" y="14.5" />
+            </edge>
+            <edge source="org.apache.hadoop.hdfs.server.namenode.INodeWithAdditionalFields" target="org.apache.hadoop.util.LightWeightGSet.LinkedElement">
+              <point x="89.66666666666663" y="-14.5" />
+              <point x="275.07916666666654" y="232.0" />
+              <point x="311.24999999999994" y="232.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.apache.hadoop.hdfs.server.namenode.INode" target="org.apache.hadoop.classification.InterfaceAudience.Private">
+              <point x="0.0" y="-14.5" />
+              <point x="166.24999999999994" y="153.0" />
+              <point x="164.95416666666662" y="153.0" />
+              <point x="164.95416666666662" y="69.0" />
+              <point x="470.12499999999994" y="69.0" />
+              <point x="-26.75" y="14.5" />
+            </edge>
+            <edge source="org.apache.hadoop.hdfs.server.namenode.INode" target="org.apache.hadoop.hdfs.util.Diff.Element">
+              <point x="-29.66666666666663" y="-14.5" />
+              <point x="136.58333333333331" y="153.0" />
+              <point x="100.95416666666665" y="153.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.apache.hadoop.hdfs.server.namenode.INodeFile" target="org.apache.hadoop.hdfs.server.namenode.INodeWithAdditionalFields">
+              <point x="-46.875" y="-14.5" />
+              <point x="547.9541666666667" y="316.0" />
+              <point x="185.4124999999999" y="316.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.apache.hadoop.hdfs.server.namenode.INodeFileAttributes" target="org.apache.hadoop.classification.InterfaceAudience.Private">
+              <point x="53.75" y="-14.5" />
+              <point x="573.0" y="153.0" />
+              <point x="545.5791666666667" y="153.0" />
+              <point x="545.5791666666667" y="79.0" />
+              <point x="505.79166666666663" y="79.0" />
+              <point x="8.916666666666686" y="14.5" />
+            </edge>
+            <edge source="org.apache.hadoop.hdfs.server.namenode.INodeWithAdditionalFields" target="org.apache.hadoop.classification.InterfaceAudience.Private">
+              <point x="-89.66666666666669" y="-14.5" />
+              <point x="95.74583333333322" y="232.0" />
+              <point x="36.95416666666665" y="232.0" />
+              <point x="36.95416666666665" y="59.0" />
+              <point x="452.29166666666663" y="59.0" />
+              <point x="-44.583333333333314" y="14.5" />
+            </edge>
+            <edge source="org.apache.hadoop.hdfs.server.namenode.INode" target="org.apache.hadoop.hdfs.server.namenode.INodeAttributes">
+              <point x="29.66666666666663" y="-14.5" />
+              <point x="195.91666666666657" y="153.0" />
+              <point x="392.1125" y="153.0" />
+              <point x="-44.75" y="14.5" />
+            </edge>
+            <edge source="org.apache.hadoop.hdfs.server.namenode.INodeAttributes" target="org.apache.hadoop.classification.InterfaceAudience.Private">
+              <point x="0.0" y="-14.5" />
+              <point x="436.8625" y="79.0" />
+              <point x="487.95833333333326" y="79.0" />
+              <point x="-8.916666666666657" y="14.5" />
+            </edge>
+            <edge source="org.apache.hadoop.hdfs.server.blockmanagement.BlockCollection" target="org.apache.hadoop.classification.InterfaceAudience.Private">
+              <point x="0.0" y="-14.5" />
+              <point x="655.125" y="69.0" />
+              <point x="523.6249999999999" y="69.0" />
+              <point x="26.75" y="14.5" />
+            </edge>
+            <edge source="org.apache.hadoop.hdfs.server.namenode.INodeFile" target="org.apache.hadoop.hdfs.server.namenode.INodeFileAttributes">
+              <point x="-15.625" y="-14.5" />
+              <point x="579.2041666666667" y="306.0" />
+              <point x="519.25" y="306.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.apache.hadoop.hdfs.util.Diff.Element" target="java.lang.Comparable">
+              <point x="0.0" y="-14.5" />
+              <point x="100.95416666666665" y="49.0" />
+              <point x="67.0" y="49.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="153.0" y="148.0" />
+          <SelectedNodes>
+            <node>org.apache.hadoop.hdfs.server.namenode.INode</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/org.apache.hadoop.hdfs.server.namenode.INode">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>org.apache.hadoop.hdfs.server.namenode.INode</OriginalElement>
+          <nodes>
+            <node x="" y="">org.apache.hadoop.hdfs.server.namenode.INodeAttributes</node>
+            <node x="" y="">org.apache.hadoop.hdfs.util.Diff.Element</node>
+            <node x="" y="">java.lang.Comparable</node>
+            <node x="" y="">org.apache.hadoop.hdfs.server.namenode.INode</node>
+            <node x="" y="">org.apache.hadoop.classification.InterfaceAudience.Private</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="170.0" y="94.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/namenode/INodeWithAdditionalFields.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="34" column="22" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/namenode/INodeAttributes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hadoop-hdfs-project/hadoop-hdfs/src/main/java/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/10.Source/3.1.8.Jdk/src/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="214" column="35" lean-forward="true" selection-start-line="214" selection-start-column="35" selection-end-line="214" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/namenode/DirectoryWithQuotaFeature.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/namenode/snapshot/DirectoryWithSnapshotFeature.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="494" column="9" selection-start-line="494" selection-start-column="9" selection-end-line="494" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/namenode/INode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="43" column="44" lean-forward="true" selection-start-line="43" selection-start-column="44" selection-end-line="43" selection-end-column="44" />
+          <folding>
+            <element signature="e#2396#2397#0" expanded="true" />
+            <element signature="e#2426#2427#0" expanded="true" />
+            <element signature="e#2479#2480#0" expanded="true" />
+            <element signature="e#2497#2498#0" expanded="true" />
+            <element signature="e#6289#6290#0" expanded="true" />
+            <element signature="e#6310#6311#0" expanded="true" />
+            <element signature="e#9697#9698#0" expanded="true" />
+            <element signature="e#9719#9720#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/org.apache.hadoop.hdfs.server.namenode.INodeDirectory">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>org.apache.hadoop.hdfs.server.namenode.INodeDirectory</OriginalElement>
+          <nodes>
+            <node x="" y="">org.apache.hadoop.hdfs.server.namenode.INodeDirectoryAttributes</node>
+            <node x="" y="">org.apache.hadoop.hdfs.server.namenode.INodeDirectory</node>
+            <node x="" y="">org.apache.hadoop.hdfs.server.namenode.INodeAttributes</node>
+            <node x="" y="">org.apache.hadoop.hdfs.server.namenode.INodeWithAdditionalFields</node>
+            <node x="" y="">org.apache.hadoop.util.LightWeightGSet.LinkedElement</node>
+            <node x="" y="">org.apache.hadoop.hdfs.util.Diff.Element</node>
+            <node x="" y="">java.lang.Comparable</node>
+            <node x="" y="">org.apache.hadoop.hdfs.server.namenode.INode</node>
+            <node x="" y="">org.apache.hadoop.classification.InterfaceAudience.Private</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="349.0" y="173.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/namenode/INodeFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="48" column="22" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/namenode/INodeDirectory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="163" column="3" selection-start-line="163" selection-start-column="3" selection-end-line="163" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/org.apache.hadoop.hdfs.server.namenode.INodeAttributes">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>org.apache.hadoop.hdfs.server.namenode.INodeAttributes</OriginalElement>
+          <nodes>
+            <node x="0.0" y="79.0">org.apache.hadoop.hdfs.server.namenode.INodeAttributes</node>
+            <node x="36.0" y="0.0">org.apache.hadoop.classification.InterfaceAudience.Private</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="org.apache.hadoop.hdfs.server.namenode.INodeAttributes" target="org.apache.hadoop.classification.InterfaceAudience.Private">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-193.0" y="24.0" />
+          <SelectedNodes>
+            <node>org.apache.hadoop.hdfs.server.namenode.INodeAttributes</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs/FileSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="95" selection-start-line="95" selection-end-line="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/fs/TestGlobPaths.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/test/HdfsTestDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/TestFileCreation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1472">
+          <caret line="146" column="5" selection-start-line="146" selection-start-column="5" selection-end-line="146" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/DFSConfigKeys.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="35" column="30" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/fs/TestFsShellReturnCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9315">
+          <caret line="443" column="51" selection-start-line="443" selection-start-column="51" selection-end-line="443" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs/LocalFileSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="35" column="45" selection-start-line="35" selection-start-column="45" selection-end-line="35" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs/ChecksumFileSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="40" column="56" selection-start-line="40" selection-start-column="56" selection-end-line="40" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs/FilterFileSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="54" column="13" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/web/HftpFileSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="79" column="13" selection-start-line="79" selection-start-column="13" selection-end-line="79" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/fs/TestHDFSFileContextMainOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="41" column="22" lean-forward="true" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/conf/Configured.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="38" column="3" lean-forward="true" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="3" />
+          <folding>
+            <element signature="e#1331#1332#0" expanded="true" />
+            <element signature="e#1354#1355#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/conf/Configuration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="106" column="2" lean-forward="true" selection-start-line="106" selection-start-column="2" selection-end-line="106" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
